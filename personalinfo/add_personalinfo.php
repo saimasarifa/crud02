@@ -1,7 +1,4 @@
 <?php
-//$id = $_POST['ID'];
-//$fullname = $_POST['full_name'];
-
 
 $link = mysqli_connect("localhost",
     "root",

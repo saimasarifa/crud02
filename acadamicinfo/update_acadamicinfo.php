@@ -17,7 +17,7 @@ $achievement = $_POST['achievement'];
 
 $link = mysqli_connect("localhost",
     "root",
-    "lict@2",
+    "shimu",
     "students");
 
 $query = "UPDATE `students`.`academic` SET `level_of_education` = '".$level."' ,`exam_title` = '".$examtitle."',

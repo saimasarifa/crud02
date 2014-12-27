@@ -4,7 +4,7 @@ $id = $_GET['id'];
 
 $link = mysqli_connect("localhost",
     "root",
-    "lict@2",
+    "shimu",
     "students");
 
 $query = "select * from academic WHERE id = $id";
@@ -15,5 +15,5 @@ $row = mysqli_fetch_assoc($result);
 
 print_r($row);
 ?>
-
+<p>
 <a href="list_acadamicinfo.php">Go to Home</a>
