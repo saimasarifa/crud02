@@ -1,17 +1,10 @@
 <?php
 
-$link = mysqli_connect("localhost",
-    "root",
-    "lict@2",
-    "students");
+
+if (isset($_POST["upload"])){
+$target_dir = "/home/lict/Downloads";
+$target_file = $target_dir . basename($_FILES["fileToUpload"]["sp.jpg"]);
+    move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file));
 
 
-$target_dir = "/home/lict/";
-$target_file = $target_dir . basename($_FILES["pic"]["sp.jpg"]);
-$uploadOk = 1;
-$imageFileType = pathinfo($target_file,'/home/lict/Desktop');
-
-
- isset($_POST["submit"]);
-
-header('location:list_imageinfo.php');?>
+    ?>
