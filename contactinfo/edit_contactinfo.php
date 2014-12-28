@@ -31,11 +31,11 @@ $row = mysqli_fetch_assoc($result);
 
         <label>Distric:</label>
         <select name="distric">
-            <option <?php if($row['distric']=='dhaka') echo 'selected';?>value="dhaka">dhaka</option>
-            <option <?php if($row['distric']=='chittagong') echo 'selected';?>value="chittagong">chittagong</option>
-            <option <?php if($row['distric']=='rajshai') echo 'selected';?>value="rajshai">rajshai</option>
-            <option <?php if($row['distric']=='sylhet') echo 'selected';?>value="sylhet">sylhet</option>
-            <option <?php if($row['distric']=='barisal') echo 'selected';?>value="barisal">barisal</option>
+            <option <?php if($row['distric']=='dhaka') echo 'selected';?> value="dhaka">dhaka</option>
+            <option <?php if($row['distric']=='chittagong') echo 'selected';?> value="chittagong">chittagong</option>
+            <option <?php if($row['distric']=='rajshai') echo 'selected';?> value="rajshai">rajshai</option>
+            <option <?php if($row['distric']=='sylhet') echo 'selected';?> value="sylhet">sylhet</option>
+            <option <?php if($row['distric']=='barisal') echo 'selected';?> value="barisal">barisal</option>
         </select>
         <label>mobile number:</label>
         <input type="text" name="mobile" value="<?php echo $row["mobile"];?>" /><p>

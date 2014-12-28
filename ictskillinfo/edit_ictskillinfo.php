@@ -30,9 +30,9 @@ $row = mysqli_fetch_assoc($result);
         <label>Experience Category :</label>
 
         <select name="experience_category">
-            <option <?php if($row['experience_category']=='eng') echo 'selected';?>value="eng">eng</option>
-            <option <?php if($row['experience_category']=='bank') echo 'selected';?>value="bank">bank</option>
-            <option <?php if($row['experience_category']=='data_entry') echo 'selected';?>value="data_entry">Data entry</option>
+            <option <?php if($row['experience_category']=='eng') echo 'selected';?> value="eng">eng</option>
+            <option <?php if($row['experience_category']=='bank') echo 'selected';?> value="bank">bank</option>
+            <option <?php if($row['experience_category']=='data_entry') echo 'selected';?> value="data_entry">Data entry</option>
 </select>
         <p>
         <label>Skill Description</label>
