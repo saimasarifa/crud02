@@ -38,9 +38,8 @@ $result = mysqli_query($link, $query);
             <td><?php echo $row['image']?></td>
 
             <td>
-                <a href="delete_ictskillinfo.php?id=<?php echo $row['id']?>">Delete</a> |
-                <a href="view_ictskillinfo.php?id=<?php echo $row['id']?>">view</a> |
-                <a href="edit_ictskillinfo.php?id=<?php echo $row['id']?>">edit</a> |
+                <a href="delete_imageinfo.php?id=<?php echo $row['id']?>">Delete</a> |
+
             </td>
 
 
