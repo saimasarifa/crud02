@@ -11,7 +11,7 @@ $extra  = $_POST['extracurricular_activities'];
 
 $link = mysqli_connect("localhost",
     "root",
-    "lict@2",
+    "shimu",
     "students");
 
 $query = "UPDATE `students`.`ict_skills` SET `experience_category` = '".$exp."' ,`skill_description` = '".$skilld."',

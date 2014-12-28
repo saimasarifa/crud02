@@ -3,7 +3,7 @@
 
 $link = mysqli_connect("localhost",
     "root",
-    "lict@2",
+    "shimu",
     "students");
 
 $query = "select * from personalinfo;";
@@ -16,7 +16,7 @@ $result = mysqli_query($link, $query);
 <ul>
 
     <li><a href="create_personalinfo.html">Create New personal information</a> </li>
-    <li><a href="../contactinfo/create_contactinfo.html">Create New contact</a> </li>
+    <li><a href="create_contactinfo.html">Create New </a> </li>
 </ul>
 
 <table border="1" width="80%">

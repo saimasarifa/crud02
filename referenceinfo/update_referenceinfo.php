@@ -17,7 +17,7 @@ $email = $_POST['email'];
 
 $link = mysqli_connect("localhost",
     "root",
-    "lict@2",
+    "shimu",
     "students");
 
 $query = "UPDATE `students`.`reference` SET `id`= '".$id."',`Name` = '".$name."',`organization` = '".$org."',

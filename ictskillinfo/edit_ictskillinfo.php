@@ -5,7 +5,7 @@ $id = $_GET['id'];
 
 $link = mysqli_connect("localhost",
     "root",
-    "lict@2",
+    "shimu",
     "students");
 
 $query = "select * from ict_skills WHERE id = $id";
@@ -21,7 +21,7 @@ $row = mysqli_fetch_assoc($result);
 
 <form action="update_ictskillinfo.php" method="post">
 
-    <h1> employment info edit form</h1>
+    <h1> ict skill  info edit form</h1>
 
     <label>ID:</label>
     <input type="text" name="id" value="<?php echo $row['id'];?>" /><p>
@@ -36,9 +36,12 @@ $row = mysqli_fetch_assoc($result);
 </select>
         <p>
         <label>Skill Description</label>
-        <input type="text" name="skill_description" value="<?php echo $row["skill_description"];?>" /><p>
-        <label>Extracurricular Activities:</label>
-        <input type="text" name="extracurricular_activities" value="<?php echo $row["extracurricular_activities"];?>" /><p>
+        skill?*:<p> <textarea cols="50" rows="4" wrap = "virtual" name="skill_description"
+value="<?php echo $row["skill_description"];?>" /></textarea> <p>
+
+
+    Extracurricul aractivities:<p> <textarea cols="50" rows="4" wrap = "virtual" name="extracurricular_activities"
+                                  value="<?php echo $row["extracurricular_activities"];?>" /></textarea> </p>
 
         <button type="submit">update</button>
 

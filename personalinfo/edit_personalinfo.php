@@ -4,7 +4,7 @@ $id = $_GET['ID'];
 
 $link = mysqli_connect("localhost",
     "root",
-    "lict@2",
+    "shimu",
     "students");
 
 $query = "select * from personalinfo WHERE ID = $id";

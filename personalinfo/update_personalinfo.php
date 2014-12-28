@@ -12,7 +12,7 @@ $nationalid =$_POST['national_id'];
 
 $link = mysqli_connect("localhost",
     "root",
-    "lict@2",
+    "shimu",
     "students");
 
 $query = "UPDATE `students`.`personalinfo` SET `full_name` = '".$fullname."' ,`father's_name` = '".$fathersname."',

@@ -13,7 +13,7 @@ $duration = $_POST['duration'];
 
 $link = mysqli_connect("localhost",
     "root",
-    "lict@2",
+    "shimu",
     "students");
 
 $query = "UPDATE `students`.`traininginfo` SET `training_title` = '".$title."' ,`training_description` = '".$desc."',

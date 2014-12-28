@@ -17,7 +17,7 @@ $res = $_POST['responsibility'];
 
 $link = mysqli_connect("localhost",
     "root",
-    "lict@2",
+    "shimu",
     "students");
 
 $query = "UPDATE `students`.`employment` SET `company_name` = '".$cname."' ,`company_business` = '".$cbusiness."',

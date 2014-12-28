@@ -1,10 +1,9 @@
 <?php
 
 
-
 $link = mysqli_connect("localhost",
     "root",
-    "lict@2",
+    "shimu",
     "students");
 
 $query = "INSERT INTO `students`.`contact_information`( `id`,

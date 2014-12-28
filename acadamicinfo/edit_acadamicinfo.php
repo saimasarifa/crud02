@@ -27,7 +27,9 @@ $row = mysqli_fetch_assoc($result);
     <input type="text" name="id" value="<?php echo $row['id'];?>" /><p>
 
         <label>level of education:</label>
-        <select name="">
+
+
+        <select name="level_of_education">
             <option <?php if($row['level_of_education']=='diploma') echo 'selected';?>value="diploma">diploma</option>
             <option <?php if($row['level_of_education']=='bsc') echo 'selected';?>value="bsc">bsc</option>
             <option <?php if($row['level_of_education']=='msc') echo 'selected';?>value="msc">msc</option>
@@ -39,13 +41,13 @@ $row = mysqli_fetch_assoc($result);
         <label>group/subject</label>
         <input type="text" name="group_subject" value="<?php echo $row["group_subject"];?>" /><p>
         <label>institution:</label>
-        <select name="">
-            <option <?php if($row['institution']=='bangla_college') echo 'selected';?>value="diploma">diploma</option>
-            <option <?php if($row['institution']=='bsc') echo 'selected';?>value="bsc">bsc</option>
-            <option <?php if($row['institution']=='msc') echo 'selected';?>value="msc">msc</option>
+        <select name="institution">
+            <option <?php if($row['institution']=='bangla_college') echo 'selected';?>value="bangla_college">Bangla college</option>
+            <option <?php if($row['institution']=='Du') echo 'selected';?>value="Du">Du</option>
+            <option <?php if($row['institution']=='khulna_uni') echo 'selected';?>value="khulna_uni">khulna</option>
 
         </select>
-        <input type="text" name="institution" value="<?php echo $row["institution"];?>" /><p>
+
         <label>result type:</label>
         <input type="text" name="result_type" value="<?php echo $row["result_type"];?>" /><p>
         <label>result</label>
