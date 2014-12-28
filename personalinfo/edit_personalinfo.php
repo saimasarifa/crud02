@@ -32,8 +32,8 @@ $row = mysqli_fetch_assoc($result);
         <label>Religion:</label>
         <input type="text" name="religion" value="<?php echo $row["religion"];?>" /><p>
         <label>Gender:</label>
-        <input type="radio" name="gender" <?php if($row['gender'] =="male") echo 'checked';?>value="male"/>male
-        <input type="radio" name="gender" <?php if($row['gender'] =="female") echo 'checked';?>value="female"/>female
+        <input type="radio" name="gender" <?php if($row['gender'] =="male") echo 'checked';?> value="male"/>male
+        <input type="radio" name="gender" <?php if($row['gender'] =="female") echo 'checked';?> value="female"/>female
     <p>
 
 

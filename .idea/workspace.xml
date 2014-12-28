@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b391d9f-6db3-4e9f-b54f-eaa491938b43" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/acadamicinfo/create_acadamicinfo.html" afterPath="$PROJECT_DIR$/acadamicinfo/create_acadamicinfo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contactinfo/create_contactinfo.html" afterPath="$PROJECT_DIR$/contactinfo/create_contactinfo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/employmentinfo/create_employmentinfo.html" afterPath="$PROJECT_DIR$/employmentinfo/create_employmentinfo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/acadamicinfo/edit_acadamicinfo.php" afterPath="$PROJECT_DIR$/acadamicinfo/edit_acadamicinfo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contactinfo/edit_contactinfo.php" afterPath="$PROJECT_DIR$/contactinfo/edit_contactinfo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskillinfo/edit_ictskillinfo.php" afterPath="$PROJECT_DIR$/ictskillinfo/edit_ictskillinfo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageinfo/add_imageinfo.php" afterPath="$PROJECT_DIR$/imageinfo/add_imageinfo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personalinfo/edit_personalinfo.php" afterPath="$PROJECT_DIR$/personalinfo/edit_personalinfo.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="crud02.iws" />
@@ -33,52 +29,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="create_acadamicinfo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/acadamicinfo/create_acadamicinfo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0" vertical-offset="45" max-vertical-offset="735">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="create_employmentinfo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/employmentinfo/create_employmentinfo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="555">
+            <state vertical-scroll-proportion="-9.166667" vertical-offset="170" max-vertical-offset="555">
               <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="update_acadamicinfo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/acadamicinfo/update_acadamicinfo.php">
+      <file leaf-file-name="edit_personalinfo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/personalinfo/edit_personalinfo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.0" vertical-offset="90" max-vertical-offset="540">
-              <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit_acadamicinfo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/acadamicinfo/edit_acadamicinfo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.875" vertical-offset="405" max-vertical-offset="1140">
-              <caret line="30" column="87" selection-start-line="30" selection-start-column="87" selection-end-line="30" selection-end-column="87" />
+            <state vertical-scroll-proportion="-11.666667" vertical-offset="245" max-vertical-offset="870">
+              <caret line="35" column="96" selection-start-line="35" selection-start-column="96" selection-end-line="35" selection-end-column="96" />
               <folding>
-                <marker date="1419785388594" expanded="true" signature="117:151" placeholder="select * fro..academic..." />
-                <marker date="1419785388594" expanded="true" signature="1027:1159" placeholder="..." />
-                <marker date="1419785388594" expanded="true" signature="1162:1271" placeholder="..." />
-                <marker date="1419785388594" expanded="true" signature="1236:1271" placeholder="..." />
-                <marker date="1419785388594" expanded="true" signature="1736:1847" placeholder="..." />
-                <marker date="1419785388594" expanded="true" signature="1850:1958" placeholder="..." />
-                <marker date="1419785388594" expanded="true" signature="1961:2091" placeholder="..." />
-                <marker date="1419785388594" expanded="true" signature="2094:2212" placeholder="..." />
-                <marker date="1419785388594" expanded="true" signature="2215:2341" placeholder="..." />
-                <marker date="1419785388594" expanded="true" signature="2344:2456" placeholder="..." />
+                <marker date="1419786472747" expanded="true" signature="116:154" placeholder="select * fro..personalinfo..." />
               </folding>
             </state>
           </provider>
@@ -94,59 +61,85 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit_ictskillinfo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ictskillinfo/edit_ictskillinfo.php">
+      <file leaf-file-name="add_contactinfo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contactinfo/add_contactinfo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.875" vertical-offset="465" max-vertical-offset="870">
-              <caret line="34" column="91" selection-start-line="34" selection-start-column="91" selection-end-line="34" selection-end-column="91" />
+            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="405">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
-                <marker date="1419785772791" expanded="true" signature="117:153" placeholder="select * fro..ict_skills..." />
+                <marker date="1419729040126" expanded="true" signature="97:383" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create_referenceinfo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/referenceinfo/create_referenceinfo.html">
+      <file leaf-file-name="create_imageinfo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imageinfo/create_imageinfo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0" vertical-offset="225" max-vertical-offset="675">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create_personalinfo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/personalinfo/create_personalinfo.html">
+      <file leaf-file-name="add_imageinfo.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/imageinfo/add_imageinfo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.125" vertical-offset="99" max-vertical-offset="510">
-              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit_contactinfo.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/contactinfo/edit_contactinfo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23376623" vertical-offset="405" max-vertical-offset="915">
-              <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.5064935" vertical-offset="135" max-vertical-offset="540">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
-                <marker date="1419785588531" expanded="true" signature="117:162" placeholder="select * fro..contact_information..." />
-                <marker date="1419785588531" expanded="true" signature="1359:1504" placeholder="..." />
-                <marker date="1419785588531" expanded="true" signature="1507:1617" placeholder="..." />
-                <marker date="1419785588531" expanded="true" signature="1620:1730" placeholder="..." />
+                <marker date="1419792835991" expanded="true" signature="312:382" placeholder="INSERT INTO ..." />
+                <marker date="1419792835991" expanded="true" signature="312:394" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create_contactinfo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contactinfo/create_contactinfo.html">
+      <file leaf-file-name="list_imageinfo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imageinfo/list_imageinfo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0" vertical-offset="90" max-vertical-offset="495">
-              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-              <folding />
+            <state vertical-scroll-proportion="-28.125" vertical-offset="90" max-vertical-offset="915">
+              <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+              <folding>
+                <marker date="1419759425187" expanded="true" signature="97:116" placeholder="select * fro..image..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_personalinfo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/personalinfo/add_personalinfo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.0416666" vertical-offset="35" max-vertical-offset="420">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              <folding>
+                <marker date="1419731121549" expanded="true" signature="96:455" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_ictskillinfo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ictskillinfo/add_ictskillinfo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="405">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+              <folding>
+                <marker date="1419730157792" expanded="true" signature="96:331" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_employmentinfo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/employmentinfo/add_employmentinfo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.625" vertical-offset="45" max-vertical-offset="495">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              <folding>
+                <marker date="1419729799626" expanded="true" signature="96:513" placeholder="INSERT INTO ..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -186,7 +179,6 @@
         <option value="$PROJECT_DIR$/ictskillinfo/view_ictskillinfo.php" />
         <option value="$PROJECT_DIR$/personalinfo/add_personalinfo.php" />
         <option value="$PROJECT_DIR$/personalinfo/delete_personalinfo.php" />
-        <option value="$PROJECT_DIR$/personalinfo/edit_personalinfo.php" />
         <option value="$PROJECT_DIR$/personalinfo/update_personalinfo.php" />
         <option value="$PROJECT_DIR$/personalinfo/view_personalinfo.php" />
         <option value="$PROJECT_DIR$/personalinfo/list_personalinfo.php" />
@@ -206,7 +198,6 @@
         <option value="$PROJECT_DIR$/traininginfo/view_traininginfo.php" />
         <option value="$PROJECT_DIR$/traininginfo/create_traininginfo.html" />
         <option value="$PROJECT_DIR$/imageinfo/create_imageinfo.html" />
-        <option value="$PROJECT_DIR$/imageinfo/add_imageinfo.php" />
         <option value="$PROJECT_DIR$/imageinfo/list_imageinfo.php" />
         <option value="$PROJECT_DIR$/contactinfo/create_contactinfo.html" />
         <option value="$PROJECT_DIR$/acadamicinfo/create_acadamicinfo.html" />
@@ -215,6 +206,8 @@
         <option value="$PROJECT_DIR$/employmentinfo/create_employmentinfo.html" />
         <option value="$PROJECT_DIR$/ictskillinfo/create_ictskillinfo.html" />
         <option value="$PROJECT_DIR$/ictskillinfo/edit_ictskillinfo.php" />
+        <option value="$PROJECT_DIR$/personalinfo/edit_personalinfo.php" />
+        <option value="$PROJECT_DIR$/imageinfo/add_imageinfo.php" />
       </list>
     </option>
   </component>
@@ -254,6 +247,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -386,7 +380,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -445,7 +438,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2652899" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26926133" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -514,13 +507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/employmentinfo/add_employmentinfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.25" vertical-offset="90" max-vertical-offset="495">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/employmentinfo/delete_employmentinfo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="315">
@@ -584,13 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personalinfo/edit_personalinfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="870">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/personalinfo/update_personalinfo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.5" vertical-offset="54" max-vertical-offset="450">
@@ -602,13 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="360">
           <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personalinfo/add_personalinfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="420">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -710,45 +682,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contactinfo/add_contactinfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="405">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imageinfo/create_imageinfo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="255">
-          <caret line="2" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ictskillinfo/list_ictskillinfo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="185" max-vertical-offset="975">
           <caret line="51" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding>
-            <marker date="1419730157824" expanded="true" signature="-1:-1" placeholder="select * fro..ict_skills..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ictskillinfo/add_ictskillinfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="405">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <marker date="1419730157792" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imageinfo/add_imageinfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,9 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="495">
           <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding>
-            <marker date="1419701369886" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -766,20 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="409">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1419701564302" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imageinfo/list_imageinfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.791666" vertical-offset="290" max-vertical-offset="915">
-          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
-          <folding>
-            <marker date="1419759425187" expanded="true" signature="-1:-1" placeholder="select * fro..image..." />
-            <marker date="1419759425187" expanded="true" signature="-1:-1" placeholder="select * fro..image..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -787,9 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="15.625" vertical-offset="540" max-vertical-offset="1170">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <marker date="1419701369874" expanded="true" signature="-1:-1" placeholder="select * fro..academic..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -797,23 +714,145 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.0" vertical-offset="90" max-vertical-offset="540">
           <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/acadamicinfo/create_acadamicinfo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0" vertical-offset="45" max-vertical-offset="735">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="735">
           <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ictskillinfo/edit_ictskillinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="870">
+          <caret line="34" column="91" selection-start-line="34" selection-start-column="91" selection-end-line="34" selection-end-column="91" />
+          <folding>
+            <marker date="1419785772791" expanded="true" signature="-1:-1" placeholder="select * fro..ict_skills..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/referenceinfo/create_referenceinfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="675">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactinfo/create_contactinfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="495">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acadamicinfo/edit_acadamicinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1140">
+          <caret line="30" column="87" selection-start-line="30" selection-start-column="87" selection-end-line="30" selection-end-column="87" />
+          <folding>
+            <marker date="1419785388594" expanded="true" signature="-1:-1" placeholder="select * fro..academic..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactinfo/edit_contactinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="915">
+          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+          <folding>
+            <marker date="1419785588531" expanded="true" signature="-1:-1" placeholder="select * fro..contact_information..." />
+            <marker date="1419785588531" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personalinfo/create_personalinfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="99" max-vertical-offset="510">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personalinfo/edit_personalinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.666667" vertical-offset="245" max-vertical-offset="870">
+          <caret line="35" column="96" selection-start-line="35" selection-start-column="96" selection-end-line="35" selection-end-column="96" />
+          <folding>
+            <marker date="1419786472747" expanded="true" signature="116:154" placeholder="select * fro..personalinfo..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactinfo/add_contactinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="405">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1419729040126" expanded="true" signature="97:383" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personalinfo/add_personalinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0416666" vertical-offset="35" max-vertical-offset="420">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding>
+            <marker date="1419731121549" expanded="true" signature="96:455" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imageinfo/list_imageinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.125" vertical-offset="90" max-vertical-offset="915">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+          <folding>
+            <marker date="1419759425187" expanded="true" signature="97:116" placeholder="select * fro..image..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employmentinfo/add_employmentinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625" vertical-offset="45" max-vertical-offset="495">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding>
+            <marker date="1419729799626" expanded="true" signature="96:513" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/employmentinfo/create_employmentinfo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="555">
+        <state vertical-scroll-proportion="-9.166667" vertical-offset="170" max-vertical-offset="555">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imageinfo/create_imageinfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ictskillinfo/add_ictskillinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="405">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <marker date="1419730157792" expanded="true" signature="96:331" placeholder="INSERT INTO ..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -825,68 +864,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ictskillinfo/edit_ictskillinfo.php">
+    <entry file="file://$PROJECT_DIR$/imageinfo/add_imageinfo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875" vertical-offset="465" max-vertical-offset="870">
-          <caret line="34" column="91" selection-start-line="34" selection-start-column="91" selection-end-line="34" selection-end-column="91" />
+        <state vertical-scroll-proportion="0.5064935" vertical-offset="135" max-vertical-offset="540">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <marker date="1419785772791" expanded="true" signature="117:153" placeholder="select * fro..ict_skills..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/referenceinfo/create_referenceinfo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0" vertical-offset="225" max-vertical-offset="675">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personalinfo/create_personalinfo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.125" vertical-offset="99" max-vertical-offset="510">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contactinfo/create_contactinfo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0" vertical-offset="90" max-vertical-offset="495">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/acadamicinfo/edit_acadamicinfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875" vertical-offset="405" max-vertical-offset="1140">
-          <caret line="30" column="87" selection-start-line="30" selection-start-column="87" selection-end-line="30" selection-end-column="87" />
-          <folding>
-            <marker date="1419785388594" expanded="true" signature="117:151" placeholder="select * fro..academic..." />
-            <marker date="1419785388594" expanded="true" signature="1027:1159" placeholder="..." />
-            <marker date="1419785388594" expanded="true" signature="1162:1271" placeholder="..." />
-            <marker date="1419785388594" expanded="true" signature="1236:1271" placeholder="..." />
-            <marker date="1419785388594" expanded="true" signature="1736:1847" placeholder="..." />
-            <marker date="1419785388594" expanded="true" signature="1850:1958" placeholder="..." />
-            <marker date="1419785388594" expanded="true" signature="1961:2091" placeholder="..." />
-            <marker date="1419785388594" expanded="true" signature="2094:2212" placeholder="..." />
-            <marker date="1419785388594" expanded="true" signature="2215:2341" placeholder="..." />
-            <marker date="1419785388594" expanded="true" signature="2344:2456" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contactinfo/edit_contactinfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23376623" vertical-offset="405" max-vertical-offset="915">
-          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
-          <folding>
-            <marker date="1419785588531" expanded="true" signature="117:162" placeholder="select * fro..contact_information..." />
-            <marker date="1419785588531" expanded="true" signature="1359:1504" placeholder="..." />
-            <marker date="1419785588531" expanded="true" signature="1507:1617" placeholder="..." />
-            <marker date="1419785588531" expanded="true" signature="1620:1730" placeholder="..." />
+            <marker date="1419792835991" expanded="true" signature="312:382" placeholder="INSERT INTO ..." />
+            <marker date="1419792835991" expanded="true" signature="312:394" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
