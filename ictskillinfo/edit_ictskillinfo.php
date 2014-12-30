@@ -50,7 +50,6 @@ $row = mysqli_fetch_assoc($result);
         <textarea   cols="50" rows="4"  name="extracurricular_activities">
        <?php echo $row['extracurricular_activities'];?>
 
-
       </textarea>
         <p>
         <button type="submit">update</button>
