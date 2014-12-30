@@ -23,8 +23,8 @@ $row = mysqli_fetch_assoc($result);
 
     <h1> ict skill  info edit form</h1>
 
-    <label>ID:</label>
-    <input type="text" name="id" value="<?php echo $row['id'];?>" /><p>
+    <label></label>
+    <input type="hidden" name="id" value="<?php echo $row['id'];?>" /><p>
 
 
         <label>Experience Category :</label>
@@ -36,13 +36,23 @@ $row = mysqli_fetch_assoc($result);
 </select>
         <p>
         <label>Skill Description</label>
-        skill?*:<p> <textarea cols="50" rows="4" wrap = "virtual" name="skill_description"
-value="<?php echo $row["skill_description"];?>" /></textarea> <p>
+
+        <textarea   cols="50" rows="4"  name="skill_description">
+       <?php echo $row['skill_description'];?>
 
 
-    Extracurricul aractivities:<p> <textarea cols="50" rows="4" wrap = "virtual" name="extracurricular_activities"
-                                  value="<?php echo $row["extracurricular_activities"];?>" /></textarea> </p>
+      </textarea>
+        <p>
 
+
+    Extracurricul aractivities:
+
+        <textarea   cols="50" rows="4"  name="extracurricular_activities">
+       <?php echo $row['extracurricular_activities'];?>
+
+
+      </textarea>
+        <p>
         <button type="submit">update</button>
 
 </form>
