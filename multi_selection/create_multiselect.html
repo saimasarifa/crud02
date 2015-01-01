@@ -1,0 +1,62 @@
+<form action="add_multiselect.php" method="post">
+
+    <h1 style="color: navy." align="center" >multi selection  form</h1>
+
+
+
+    <label>Full Name:</label>
+    <input type="text" name="full_name" /><p>
+
+    <label>Hobby:</label>
+
+    <input type="checkbox" name="hobby_reading" value="reading">Reading
+    <input type="checkbox" name="hobby_traveling" value="traveling">Traveling
+    <input type="checkbox" name="hobby_gardening" value="gardening">Gardening
+    <input type="checkbox" name="hobby_other" value="other">Other<p>
+
+    <label>Preferred Job Location:</label>
+
+    <select  name ="preferred_job_location[]" multiple="multiple">
+
+        <option value="">select </option>
+        <option value="dhaka" >Dhaka</option>
+        <option value="rajshai">Rajshai</option>
+        <option value="barisal">Barisal</option>
+        <option value="khulna">khulna</option>
+        <option value="sylhet">Rajshai</option>
+        <option value="rangpur">Barisal</option>
+        <option value="pabna">pabna</option>
+        <option value="chittagong">Chittagong</option>
+         <option value="noakhali" >noakhali</option>
+        <option value="volha">volha</option>
+        <option value="netrokona">netrokona</option>
+        <option value="ranagamati">ranagamati</option>
+        <option value="satkhira">satkhira</option>
+        <option value="jamalpur">jamalpur</option>
+        <option value="faridpur">faridpur</option>
+        <option value="coxbazar">coxbazar</option>
+        <option value="nilfamari">nilfamari</option>
+        <option value="kustia">kustia</option>
+        <option value="nator">nator</option>
+        <option value="norshimdi">norshimdi</option>
+        <option value="khagrasori">khagrasori</option><p>
+    </select><p>
+
+    <label>Favourite food:</label>
+
+    <input type="checkbox" name="food[]" value="rice">Rice
+    <input type="checkbox" name="food[]" value="bargur">bargur
+    <input type="checkbox" name="food[]" value="cake">Cake
+    <input type="checkbox" name="food[]" value="soup">soup<p>
+
+        <label>Created:</label>
+        <input type="hidden" name="created" /><p>
+        <label>modified:</label>
+        <input type="hidden" name="modified" /><p>
+
+
+
+    <button type ="submit">submit</button>
+    <button type ="button">cancel</button>
+
+</form>
