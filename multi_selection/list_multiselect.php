@@ -25,6 +25,10 @@ $result = mysqli_query($link, $query);
         <td>Full_name</td>
         <td>hobby</td>
         <td>preferred Job Location</td>
+        <td>food</td>
+        <td>created</td>
+        <td>modified</td>
+
 
         <td>Action</td>
     </tr>
@@ -39,6 +43,11 @@ $result = mysqli_query($link, $query);
             <td><?php echo $row['full_name']?></td>
             <td><?php echo $row['hobby']?></td>
             <td><?php echo $row['preferred_job_location']?></td>
+            <td><?php echo $row['favourite_food']?></td>
+            <td><?php echo $row['created']?></td>
+            <td><?php echo $row['modified']?></td>
+
+
 
 
         </tr>

@@ -43,7 +43,7 @@ $hobby = rtrim($hobby,',');
 //$hobby = ".$hobby.','.$hobby.','.$hobby.";
 echo($hobby);
 
-/*$link = mysqli_cechoonnect("localhost",
+/*$link = mysqli_choonnect("localhost",
     "root",
     "lict@2",
     "students");
